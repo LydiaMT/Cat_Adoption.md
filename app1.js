@@ -1,5 +1,7 @@
-let userName = window.prompt('Please Enter Your Name');
+let userName = prompt('Please Enter Your Name');
 
-console.log (userName)
+document.write(userName)
 
-console.log('here')
+/* let userName = window.prompt('Please Enter Your Name');
+
+console.log (userName) */
