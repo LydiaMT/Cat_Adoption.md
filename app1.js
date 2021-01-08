@@ -36,34 +36,4 @@ function HowManyCats() {
     }
 }
 
-/* let userInput = prompt('How many cats do you want?');
-
-document.write(userInput)
-
-/* let userInput = window.prompt('How many cats do you want?');
-
-console.log (userInput)
-
-function printNumber(){
-    for(let i=0; i < 10; i++){
-        document.write('<li>' + i + '</li>')
-    }
-}
-
-let correctAnswer = 13; */
-
-/*
-function NumberOfCatsMessage(){
-    let userInput = prompt('Please select how many cats you want between 1-20')
-    for(let i=0; i < numberOfGuesses; i++){
-        if(userInput == correctAnswer){
-            alert('You won a cat!');
-            break;
-        } else if (userInput < correctAnswer){
-            alert('Sorry, too low');
-        } else if (userInput > correctAnswer)
-            alert)'Sorry, too high');
-    }
-} 
-*/
 
