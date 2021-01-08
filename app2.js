@@ -1,3 +1,4 @@
+/*
 function userInput(){
 if (userName == 'Lydia'){
     document.write('<head>' + '-Welcome Lydia!' + '</head>');
@@ -7,3 +8,4 @@ if (userName == 'Lydia'){
 }
 
 userInput()
+*/
